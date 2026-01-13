@@ -1,0 +1,7 @@
+# robots.txt for CurriculumPlan
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://curriculumplan.com.au/sitemap.xml
